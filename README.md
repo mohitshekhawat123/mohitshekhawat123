@@ -47,14 +47,14 @@ Modern real-time stock market tracking and watchlist platform built with Next.js
 - Highlights: TradingView charts and heatmaps, Finnhub market data, Better Auth login, watchlist dashboard, Inngest and Nodemailer alerts, command search, dark and light mode
 - Tech: Next.js (App Router), React, TypeScript, MongoDB, Tailwind CSS, Radix UI, shadcn/ui
 - Repo: https://github.com/mohitshekhawat123/<STOCK_APP_REPO>
-- Live: <DEPLOY_LINK>
+- Live: https://stockapp-delta-lake.vercel.app/sign-in
 
 ### Spotify Clone (Frontend) 🎵
 Responsive Spotify-inspired UI clone focused on modern layout systems, reusable components, and design consistency. Not affiliated with Spotify.
 - Highlights: Responsive sidebar and content layout, reusable component architecture, Vite development workflow, Vercel-ready setup
 - Tech: React, Vite, Tailwind CSS, JavaScript
 - Repo: https://github.com/mohitshekhawat123/<SPOTIFY_CLONE_REPO>
-- Live: <DEPLOY_LINK>
+- Live: https://spotifyclone4.vercel.app/
 
 ### Trot (Expo and React Native) 📱
 Mobile app built with Expo and React Native. Add one-line product description and key features when finalized.
